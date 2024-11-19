@@ -1,1 +1,1 @@
-🇺🧮️🌐️ The official source repository for the UCALC (Ultimate Calculator) Web Edition project.
+🇺🧮️🌐️ The official website source repository for the UCALC (Ultimate Calculator) project.
